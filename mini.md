@@ -2,15 +2,15 @@
 
 _This page has been reserved for extra documentation for the SIDN. It is currently being edited, proof-read, and updated_
 
-<h2> ## Introduction</h2>
+## Introduction {.uk-h1}
 
 To increase the confidence of how our system will work, we've looked at several ways to optimize our algorithms. Instead of creating one algorithm that is connected to a whole set of devices, we want to have smaller algorithms that work together to come to a consensus. Specifically, we want them to come to a consensus by being called upon by human actors, through the controllable interfaces of our apps. To do this, we need a special protocol that allows users to plugin to other smart devices, creating a context of meaning. In this context, meanings of words, sentences and situations are calculated for those involved in the "discussion".  
 
-<h3> ## Problem</h3>
+### Problem {.uk-h3}
 
 In order to speed up the learning process for each device, which hosts a real-time machine learning process, each device should be able to download the data it requires to improve its accuracy in given situations. However, as common communication patterns emerge between different users, it's important that we have a way to create a readily available "popular" context that individual users can stay in sync with. This is comparable to a common alphabet that can continually be updated to provide accurate translations of words and phrases between users with different writing styles and as far as users speaking in different languages. This can be considered a digital meta-language which enables back-and-forth translations between languages, dialects, and styles.  
 
-<h3> ### Solution </h3>
+### Solution {.uk-h3}
 To solve this, we are "fingerprinting" communications between describable profiles. This means we create an individual profile from the different ways a user communicates. When two users with similar styles speak to one another, they can automatically use predictive communication patterns without having to train the models in their devices again to reach the same amount of reliability.  Consequently, at least one device in the network will need to centralize this data. Due to privacy issues with recording and storing writing from device keyboards, storing conversations is out of the question. Therefore the conversation will not be stored, but rather **the style and context** of the conversation.  
 
 Furthermore, the information stored cannot actually contain information about user's unless they have explicitly given permission (through the app dialogues) for their information to be fingerprinted. By the time the historical record of conversations reaches the database, it must be already be aggregated as a "common language" for definable context. This means users who want to personalise their predictive text in different contexts (work, home, private, professional) and with differing levels of nuance, need to handle most of their private fingerprints in real-time, without needing the global context. These are edge scenarios with respect to the central node. As the data in edge scenarios requires more detail and historical context, it makes sense to store this information on the device, for quick access between two users when they need to trade their secret keys.  
@@ -18,7 +18,7 @@ Furthermore, the information stored cannot actually contain information about us
 For this reason, a decentralized peer-to-peer layer is required to reduce the need for storing extensive information about users. Although a centralized back-up service can be offered to users who are more concerned about longevity of their predictive patterns, such a network should be able to function well without this added service, at least in Realtime communication between users in a community.  
 
 
-<h3> ## Privacy-First P2P Architechture </h3>
+## Privacy-First P2P Architechture {.uk-h2}
 
 In a peer-to-peer network, the clusters of users who speak to one another will come as given. No extra computation will be required for a user's device to know where in the network of contexts a given conversation belongs, provided both users can access the central node for downloading the fingerprints that most closely resembles the profile of the person they are speaking to. This will allow the user's device to accurately translate communication between contexts without downloading the personal data of their conversational partner.  
 
@@ -31,6 +31,8 @@ Users who give the central node permission to use their conversations to contrib
 The aim of this network is to minimize the amound of written language that is store, but incrementally computing the fingerprint of stored information and providing automatically it as soon as possible to devices which regularly access their personal lexicon graph. The lexicon graph is a graph of logical decisions which provides insights into the most likely context a person is speaking in. The aim of this is to simulate the results of a random-forest algorithm and simple k-means cluster analysis, without actually running them all the time (apart from the central database, which will already have labelled fingerprints to run more complex and intensive algorithms, with the goal of further anonymising user information while increasing it's reliability as a "middle man" that understands that to whisper into each device to make it's perspective synchronised with a peer device without directly knowing it's personal details (again, unless explicitly shared, in which case, the central node is removed from the stream. In these cases, standard encryption methods between devices apply.  
 
 In the event that the mediator is not need, due to explicit indication of trust, the communication channel is encrypted in such a manner that the central node is also unaware.  
+
+---
 
 We will be using a combination of Signal.io, Gundb.io, and Firebase to handle the different levels of context needed.  
 
