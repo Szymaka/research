@@ -1,4 +1,4 @@
-# Machine Insight Network Interpreter {.uk-article-title}
+# Message Insight Network Interpreter {.uk-article-title}
 
 _This page has been reserved for extra documentation for the SIDN. It is currently being edited, proof-read, and updated_
 
