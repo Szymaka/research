@@ -50,9 +50,15 @@ To describe how we will calculate a local context with a global context, I have 
 
 ![alt text][f11_2]
 
-The mathematical/geometrical reflection as described in Feynman's lost lecture. Here is a simple video to explain the reflective property of this network. 
+The mathematical/geometrical reflection as described in Feynman's lost lecture. 
 
-![alt text][f_11_1]
+![alt text][f11_0]
+
+Here is a simple video to explain the reflective property of this network. 
+
+![alt text][f11_1]
+
+![alt text][f11_3]
 
 It references the reflective nature of circles with ellipses in them, which are in turn also describable in terms of circles:  https://www.youtube.com/watch?v=xdIjYBtnvZU 
 
