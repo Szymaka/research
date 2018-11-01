@@ -62,7 +62,7 @@ Here is a simple video to explain the reflective property of this network.
 
 It references the reflective nature of circles with ellipses in them, which are in turn also describable in terms of circles:  https://www.youtube.com/watch?v=xdIjYBtnvZU 
 
-To actually create the fingerprints of conversation, statements will be represented in a meta-model which is composed on logical state changes to nouns and verbs. While sentences can be  
+To actually create the fingerprints of conversation, statements will be represented in a meta-model which is composed on logical state changes to nouns and verbs.
 
 ![alt text][f_0]
 
