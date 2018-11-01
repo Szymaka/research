@@ -48,9 +48,13 @@ This is the Machine Insight Network Interpreter (MINI) architecture that will co
 
 To describe how we will calculate a local context with a global context, I have found a video which helps illustrate how Feynman's theories provide shortcuts. 
 
-[f11_2]
+![alt text][f11_2]
 
-The mathematical/geometrical reflection as described in Feynman's lost lecture. Here is a simple video to explain the reflective property of this network. It references the reflective nature of circles with ellipses in them, which are in turn also describable in terms of circles:  https://www.youtube.com/watch?v=xdIjYBtnvZU 
+The mathematical/geometrical reflection as described in Feynman's lost lecture. Here is a simple video to explain the reflective property of this network. 
+
+![alt text][f_11_1]
+
+It references the reflective nature of circles with ellipses in them, which are in turn also describable in terms of circles:  https://www.youtube.com/watch?v=xdIjYBtnvZU 
 
 ![alt text][f_1]
 
