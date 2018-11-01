@@ -74,8 +74,20 @@ Furthermore, contextual sentiment will be represented as equations of Fourier tr
 
 Here is a short video explaining the properties of the Fourier transform we want to leverage: https://www.youtube.com/watch?v=spUNpyF58BY  
 
-Since neural networks are extremely effective at processing images and the differences between them, it is a good medium for compressing data. As long as each image can be represented precisely as a mathematical algorithm, images will be our communication device. This is a video describing the geometrical properties of irrational numbers, and why the golden ratio will be used as our baseline or zero-point. We make use of this when comparing how much one context differs from another and how to represent it graphically, so that a ML system can quickly understand the calculation without actually performing it.
+Since neural networks are extremely effective at processing images and the differences between them, it is a good medium for compressing data. As long as each image can be represented precisely as a mathematical algorithm, images will be our communication device. 
+
+![alt text][gr_0]
+
+This is a video describing the geometrical properties of irrational numbers, and why the golden ratio will be used as our baseline or zero-point.
+
+![alt text][gr_01]
+
+![alt text][gr_1]
+
+We make use of this when comparing how much one context differs from another and how to represent it graphically, so that a ML system can quickly understand the calculation without actually performing it.
  https://www.youtube.com/watch?v=sj8Sg8qnjOg  
+ 
+![alt text][gr_2]
 
 [f_0]: https://github.com/automotola/tm-web/raw/master/docs/img/sidn/f_0.PNG 
 [f_1]: https://github.com/automotola/tm-web/raw/master/docs/img/sidn/f_1.PNG
