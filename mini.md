@@ -62,15 +62,24 @@ Here is a simple video to explain the reflective property of this network.
 
 It references the reflective nature of circles with ellipses in them, which are in turn also describable in terms of circles:  https://www.youtube.com/watch?v=xdIjYBtnvZU 
 
+To actually create the fingerprints of conversation, statements will be represented in a meta-model which is composed on logical state changes to nouns and verbs. While sentences can be  
+
+![alt text][f_0]
+
+Furthermore, contextual sentiment will be represented as equations of Fourier transforms, which are variations from the global average, which is always represented as a golden spiral. 
+
 ![alt text][f_1]
 
-To actually create the fingerprints of conversation, statements will be represented in a meta-model which is composed on logical state changes to nouns and verbs. While sentences can be  Furthermore, contextual sentiment will be represented as equations of Fourier transforms, which are variations from the global average, which is always represented as a golden spiral. Here is a short video explaining the properties of the Fourier transform we want to leverage: https://www.youtube.com/watch?v=spUNpyF58BY  
+![alt text][f_2]
+
+Here is a short video explaining the properties of the Fourier transform we want to leverage: https://www.youtube.com/watch?v=spUNpyF58BY  
 
 Since neural networks are extremely effective at processing images and the differences between them, it is a good medium for compressing data. As long as each image can be represented precisely as a mathematical algorithm, images will be our communication device. This is a video describing the geometrical properties of irrational numbers, and why the golden ratio will be used as our baseline or zero-point. We make use of this when comparing how much one context differs from another and how to represent it graphically, so that a ML system can quickly understand the calculation without actually performing it.
  https://www.youtube.com/watch?v=sj8Sg8qnjOg  
 
 [f_0]: https://github.com/automotola/tm-web/raw/master/docs/img/sidn/f_0.PNG 
 [f_1]: https://github.com/automotola/tm-web/raw/master/docs/img/sidn/f_1.PNG
+[f_2]: https://github.com/automotola/tm-web/raw/master/docs/img/sidn/F_2.PNG
 [f11_0]: https://github.com/automotola/tm-web/raw/master/docs/img/sidn/fll_0.PNG
 [f11_1]: https://github.com/automotola/tm-web/raw/master/docs/img/sidn/fll_1.PNG
 [f11_2]: https://github.com/automotola/tm-web/raw/master/docs/img/sidn/fll_2.PNG
