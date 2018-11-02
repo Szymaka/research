@@ -1,5 +1,5 @@
 
-Signs - Language, Symbols, Context.
+# UML example:
 
 @startuml
 Bob -> Alice : hello
