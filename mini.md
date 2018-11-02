@@ -15,8 +15,14 @@ To solve this, we are "fingerprinting" communications between describable profil
 
 ### Use case {.uk-h3}
 This section describes the user story that has been included with this document. Clicking one of these links will take you to the appropriate stage in the story. Clicking on an activity will highlight the corresponding area in the prototype. Pressing enter will take you to the next activity in the story.
-- Create a user profile {#stage-registration}
-- Write a message {#stage-messaging}
+- Create a user profile {#registration}
+ - Write a username
+ - Describe yourself or provide a role you play 
+ - Sumbit your username
+- Write a message {#messaging}
+ - Select a context to write in
+ - Write your message
+ - Submit your message
 
 
 ![alt text][231018]
