@@ -13,6 +13,12 @@ In order to speed up the learning process for each device, which hosts a real-ti
 ### Solution {.uk-h3}
 To solve this, we are "fingerprinting" communications between describable profiles. This means we create an individual profile from the different ways a user communicates. When two users with similar styles speak to one another, they can automatically use predictive communication patterns without having to train the models in their devices again to reach the same amount of reliability.  Consequently, at least one device in the network will need to centralize this data. Due to privacy issues with recording and storing writing from device keyboards, storing conversations is out of the question. Therefore the conversation will not be stored, but rather **the style and context** of the conversation. 
 
+### Use case {.uk-h3}
+This section describes the user story that has been included with this document. Clicking one of these links will take you to the appropriate stage in the story. Clicking on an activity will highlight the corresponding area in the prototype. Pressing enter will take you to the next activity in the story.
+- Create a user profile {#stage-registration}
+- Write a message {#stage-messaging}
+
+
 ![alt text][231018]
 
 Furthermore, the information stored cannot actually contain information about user's unless they have explicitly given permission (through the app dialogues) for their information to be fingerprinted. By the time the historical record of conversations reaches the database, it must be already be aggregated as a "common language" for definable context. This means users who want to personalise their predictive text in different contexts (work, home, private, professional) and with differing levels of nuance, need to handle most of their private fingerprints in real-time, without needing the global context. These are edge scenarios with respect to the central node. As the data in edge scenarios requires more detail and historical context, it makes sense to store this information on the device, for quick access between two users when they need to trade their secret keys.  
