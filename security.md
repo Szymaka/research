@@ -2,14 +2,15 @@
 
 GDPR
 
-Article 5 
+
+[Article 5] 
 
 
-Article 6 
+[Article 6] 
 
 
+[Article 9]
 
-Article 9
 
 
 [Article 5]: https://gdpr-info.eu/art-5-gdpr/
